@@ -1,0 +1,24 @@
+/***************************************************
+		Reescritura de stilos de Travel Points 
+***************************************************/
+@font-face {
+font-family: 'Titillium';
+font-style: normal;
+font-weight: normal;
+src: local('Titillium'), url('@fuentes/TitilliumWeb-Regular.ttf') format('ttf');
+}
+
+@font-face {
+font-family: 'Titillium Light';
+font-style: normal;
+font-weight: normal;
+src: local('Titillium Light'), url('@fuentes/TitilliumWeb-Light.ttf') format('ttf');
+}
+
+@font-face {
+font-family: 'Titillium Bold';
+font-style: normal;
+font-weight: 500;
+src: local('Titillium Bold'), url('@fuentes/TitilliumWeb-Bold.ttf') format('ttf');
+
+}

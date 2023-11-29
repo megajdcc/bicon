@@ -1,0 +1,18 @@
+@import "@core/scss/core.scss";
+
+.table-danger  .text-nowrap,
+.table-success .text-nowrap,
+.table-info    .text-nowrap,
+.table-warning .text-nowrap,
+.table-primary .text-nowrap
+ {
+               color: black;
+}
+
+
+.b-table-sticky-column{
+               color: black !important;
+}
+
+
+
